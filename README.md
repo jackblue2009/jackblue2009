@@ -27,8 +27,8 @@ Previously, I worked at Starbucks as a shift supervisor for over five years, tra
 
 ## 📫 Connect with Me
 
-GitHub: [**@jackblue2009**](https://github.com/jackblue2009/)
-LinkedIn: [**Abdulrahman Bucheeri**](https://www.linkedin.com/in/abdulrahman-bucheeri/)
+- GitHub: [**@jackblue2009**](https://github.com/jackblue2009/)
+- LinkedIn: [**Abdulrahman Bucheeri**](https://www.linkedin.com/in/abdulrahman-bucheeri/)
 
 ### Let's build something awesome together! 🚀
 

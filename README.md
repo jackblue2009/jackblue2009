@@ -33,5 +33,5 @@ LinkedIn: [**Abdulrahman Bucheeri**](https://www.linkedin.com/in/abdulrahman-buc
 ### Let's build something awesome together! 🚀
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackblue2009&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jackblue2009&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Stats](https://streak-stats.demolab.com?user=jackblue2009&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jackblue2009&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
